@@ -8,9 +8,9 @@
 #ifndef SDDS_LBLSHAPE_H
 #define SDDS_LBLSHAPE_H
 
-#include "Shape.h"
-
 #include <iostream>
+
+#include "Shape.h"
 
 namespace sdds
 {
