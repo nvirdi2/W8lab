@@ -7,10 +7,10 @@
 
 #define _CRT_SECURE_NO_WARNINGS
 
-#include "LblShape.h"
 #include <cstring>
-
 #include <string>
+
+#include "LblShape.h"
 
 using namespace std;
 
