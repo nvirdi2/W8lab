@@ -5,12 +5,12 @@ March 28, 2021
 
 Reflection
 Workshop 8 focused on many learning outcomes and I would say that it was very different 
-compared to other workshops. Creating abstract base classes was very new and it very
+compared to other workshops. Creating abstract base classes was very new and very
 similar to the class website examples. However, I believe the "implement behaviour using
 virtual functions" out the learning outcomes was the hardest out of all to pick up on. 
-There is a difference between an abstract base class and a concrete class required a lot of 
+There is a difference between an abstract base class and a concrete class that required a lot of 
 reading. Using the ICT Seneca website the difference is abstract classes are base classes and
-concrete classes are dervived classes and they are create through interface. This difference can
-be seen in the names. An abstract base class is "abstract" all of the method used are abstract
-in this class, while concrete classes are "concrete" are dont have abstract methods of 
-resolving and running. 
+concrete classes are derived classes and they are created through the interface. This difference can
+be seen in the names. An abstract base class is "abstract" all of the method used is abstract in this
+class, while concrete classes are "concrete" are don't have abstract methods of 
+resolving and running.  
